@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\core",
+    "\\desktop",
+    "\\desktop\\src",
+    "\\desktop\\src\\org",
+    "\\desktop\\src\\org\\mini2dx",
+    "\\desktop\\src\\org\\mini2dx\\Tappybird",
+    "\\desktop\\src\\org\\mini2dx\\Tappybird\\desktop",
+    "\\gradle",
+    "\\gradle\\wrapper"
+  ],
+  "SelectedNode": "\\desktop\\src\\org\\mini2dx\\Tappybird\\desktop\\DesktopLauncher.java",
+  "PreviewInSolutionExplorer": false
+}

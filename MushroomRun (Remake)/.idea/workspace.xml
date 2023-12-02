@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="922d1db8-83a3-4f0a-985b-538aa71ed767" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/Player/planes.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/Player/planes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/Sounds/coin1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/Sounds/coin1.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/UserInterface/Numbers/number9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/groundDirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/groundDirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/assets/rock.png" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/assets/rock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Background.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Background.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/BackgroundTexture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/BackgroundTexture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/PillarTexture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/PillarTexture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Pillars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Pillars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/PlayerTexture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/PlayerTexture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TappyBirdGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TappyBirdGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TopBottomEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TopBottomEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TopBottomEdgeTexture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/TopBottomEdgeTexture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mushroom_Run/core/src/main/java/org/mini2dx/Tappybird/UserInterface.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tappy Bird" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mushroom_Run" />
+  </component>
+  <component name="ProjectId" id="1yVBGHvo33ktCc1xEvPgvrY8COC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mushroom_Run" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Desktop" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.mini2dx.Tappybird.desktop.DesktopLauncher" />
+      <module name="Tappy_Bird.desktop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mini2dx.Tappybird.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desktop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="922d1db8-83a3-4f0a-985b-538aa71ed767" name="Changes" comment="" />
+      <created>1632326781769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632326781769</updated>
+      <workItem from="1632326783661" duration="41000" />
+      <workItem from="1632328832622" duration="47000" />
+      <workItem from="1632631132557" duration="8213000" />
+      <workItem from="1632646102028" duration="5659000" />
+      <workItem from="1632651855240" duration="167000" />
+      <workItem from="1632652247611" duration="218000" />
+      <workItem from="1632673369993" duration="2536000" />
+      <workItem from="1632712060281" duration="317000" />
+      <workItem from="1632712765946" duration="1259000" />
+      <workItem from="1632714854945" duration="621000" />
+      <workItem from="1632751658309" duration="827000" />
+      <workItem from="1633260505291" duration="8465000" />
+      <workItem from="1633269380457" duration="4204000" />
+      <workItem from="1633278717425" duration="2086000" />
+      <workItem from="1633353179992" duration="5054000" />
+      <workItem from="1633360464442" duration="4069000" />
+      <workItem from="1633364735391" duration="71000" />
+      <workItem from="1633364820653" duration="13247000" />
+      <workItem from="1633440851577" duration="14847000" />
+      <workItem from="1633515414800" duration="21000" />
+      <workItem from="1633515487295" duration="3746000" />
+      <workItem from="1633521112214" duration="852000" />
+      <workItem from="1633529036470" duration="6805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tappy_Bird$Desktop.ic" NAME="Desktop Coverage Results" MODIFIED="1633535670584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.mini2dx.Tappybird.desktop.*</FILTER>
+    </SUITE>
+  </component>
+</project>
